@@ -1,3 +1,15 @@
+This is a mirror of the ARAGORN tRNA/tmRNA finder code as published here:
+
+http://nar.oxfordjournals.org/content/32/1/11.long
+
+The original README from the download directory 
+
+	http://mbio-serv2.mbioekol.lu.se/ARAGORN/Downloads/
+
+follows.
+
+---------------
+
 The tar ball only contains two files, the ARAGORN source
 (aragorn1.2.36.c or similar) and a man page (aragorn.1). 
 Uncompress with:
